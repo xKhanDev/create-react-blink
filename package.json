@@ -1,0 +1,9 @@
+{
+  "name": "create-react-blink",
+  "version": "1.0.1",
+  "bin": {
+    "create-react-blink": "./index.js"
+  },
+  "type": "module",
+  "dependencies": {}
+}
