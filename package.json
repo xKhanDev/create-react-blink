@@ -4,6 +4,7 @@
   "bin": {
     "create-react-blink": "./index.js"
   },
+  "license": "MIT",
   "type": "module",
   "dependencies": {}
 }
