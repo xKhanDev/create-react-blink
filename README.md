@@ -1,7 +1,3 @@
-Here’s a **professional README.md** you can use for publishing your CLI tool on **npm**:
-
----
-
 # 📦 create-react-stack
 
 A **zero-config CLI tool** to instantly scaffold a modern React project powered by **Vite**, **TailwindCSS**, **DaisyUI**, **Lucide Icons**, and **React Router DOM** — all with a single command.
