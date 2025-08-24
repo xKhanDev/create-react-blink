@@ -1,4 +1,4 @@
-# 📦 create-react-stack
+# 📦 create-react-blink
 
 A **zero-config CLI tool** to instantly scaffold a modern React project powered by **Vite**, **TailwindCSS**, **DaisyUI**, **Lucide Icons**, and **React Router DOM** — all with a single command.
 
@@ -22,13 +22,13 @@ A **zero-config CLI tool** to instantly scaffold a modern React project powered 
 You don’t need to install globally. Use via **bunx** or **npx**:
 
 ```bash
-bunx create-react-stack my-app
+bunx create-react-blink my-app
 ```
 
 or
 
 ```bash
-npx create-react-stack my-app
+npx create-react-blink my-app
 ```
 
 ---
@@ -38,13 +38,13 @@ npx create-react-stack my-app
 ### JavaScript (default)
 
 ```bash
-bunx create-react-stack my-app
+bunx create-react-blink my-app
 ```
 
 ### TypeScript
 
 ```bash
-bunx create-react-stack my-app --ts
+bunx create-react-blink my-app --ts
 ```
 
 ---
@@ -118,15 +118,15 @@ This renders a **DaisyUI styled button** with a **Lucide icon**.
 
 | Command                               | Description                            |
 | ------------------------------------- | -------------------------------------- |
-| `bunx create-react-stack my-app`      | Create project with React (JS)         |
-| `bunx create-react-stack my-app --ts` | Create project with React + TypeScript |
+| `bunx create-react-blink my-app`      | Create project with React (JS)         |
+| `bunx create-react-blink my-app --ts` | Create project with React + TypeScript |
 
 ---
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/xKhanDev/create-react-stack).
+Feel free to check the [issues page](https://github.com/xKhanDev/create-react-blink).
 
 ---
 
