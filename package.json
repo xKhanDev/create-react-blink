@@ -1,10 +1,17 @@
 {
   "name": "create-react-blink",
-  "version": "1.0.3",
+  "version": "1.0.4",
+  "description": "A CLI to scaffold a React + Vite + Tailwind + DaisyUI project",
   "bin": {
     "create-react-blink": "./index.js"
   },
   "license": "MIT",
   "type": "module",
-  "dependencies": {}
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": ">=16"
+  }
 }

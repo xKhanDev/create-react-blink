@@ -22,7 +22,7 @@ A **zero-config CLI tool** to instantly scaffold a modern React project powered 
 You don’t need to install globally. Use via **bunx** or **npx**:
 
 ```bash
-bunx create-react-blink my-app
+npx create-react-blink my-app
 ```
 
 or
